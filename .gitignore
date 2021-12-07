@@ -2,3 +2,10 @@
 .settings
 salesforce.schema
 Referenced Packages
+.idea/
+.sfdx/
+.husky/
+scripts/
+IlluminatedCloud/
+package-lock.json
+node_modules/
